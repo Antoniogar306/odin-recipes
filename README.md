@@ -1,4 +1,4 @@
 # odin-recipes
-Este es mi primer proyecto de momento solo va a ser con html, 
-consistira en una lista de recetas. Uno vez lo haya terminado 
-habre adquerido las habilidades basicas de html
+This is my first project at the moment it will only be with html,
+It will consist of a list of recipes. Once I have finished it
+I will have acquired basic HTML skills
