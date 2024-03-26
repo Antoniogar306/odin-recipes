@@ -1,0 +1,27 @@
+body{
+    font-size: 18px;
+}
+
+.title {
+    font-size: 48px;
+    text-align: center;
+}
+
+.link {
+    font-size: 20px;
+}
+
+.title-des {
+    font-size: 30px;
+    text-align: center;
+}
+
+.des{
+    text-align: center;
+    font-size: 18px;
+}
+
+.ing-steps{
+    font-size: 30px;
+    
+}
