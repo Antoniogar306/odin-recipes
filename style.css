@@ -1,5 +1,6 @@
 body{
     font-size: 18px;
+    background-color: #e4a56bde;
 }
 
 .title {
@@ -25,3 +26,26 @@ body{
     font-size: 30px;
     
 }
+
+.img-recipe{
+    display: block;
+    margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+    height: 205px;
+    margin-bottom: 20px;
+}
+
+.flex-container img {
+    flex: initial;
+    margin: auto;
+}
+
+.flex-container a {
+    flex: 1;
+    display: block;
+    text-align: center;
+}
+
